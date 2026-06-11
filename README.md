@@ -115,6 +115,16 @@ Try the deployed application here:
 
 ---
 
+## 📓 Google Colab Notebook
+
+The complete model training, evaluation, and visualization workflow is available in:
+
+Brain_Tumor_Prediction.ipynb
+
+Open the notebook in Google Colab to explore dataset preprocessing, model training, evaluation metrics, and prediction examples.
+
+---
+
 ## 🔮 Future Enhancements
 
 - Improve model accuracy using advanced deep learning architectures.
