@@ -75,12 +75,27 @@ Note: The dataset is not included in this repository because of its large size.
 - Softmax Output Layer
 
 ---
-
 ## 📈 Results
 
 - Training Accuracy: ~98%
 - MRI Tumor Classification
 - Confidence Score Prediction
+
+### Prediction Result
+
+![Prediction Result](images/prediction_result.png)
+
+### Accuracy and Loss Graph
+
+![Accuracy and Loss Graph](images/accuracy_loss_graph.png)
+
+### Sample MRI Images
+
+![Sample MRI Images](images/sample_mri_images.png)
+
+### Dataset Distribution
+
+![Dataset Distribution](images/dataset_distribution.png)
 
 ---
 
