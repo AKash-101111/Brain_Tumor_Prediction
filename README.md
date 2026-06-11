@@ -105,6 +105,14 @@ Try the deployed application here:
 
 🔗 https://braintumorprediction-s7vx6wjbzeayhtptiqyfho.streamlit.app/
 
+### Application Interface
+
+![Live Demo](images/live_demo.png)
+
+### Prediction Result
+
+![Prediction Result](images/prediction_result.png)
+
 ---
 
 ## 🔮 Future Enhancements
