@@ -99,6 +99,14 @@ Note: The dataset is not included in this repository because of its large size.
 
 ---
 
+## 🌐 Live Demo
+
+Try the deployed application here:
+
+🔗 https://braintumorprediction-s7vx6wjbzeayhtptiqyfho.streamlit.app/
+
+---
+
 ## 🔮 Future Improvements
 
 - Streamlit Web Application
