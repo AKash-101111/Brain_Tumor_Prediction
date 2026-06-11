@@ -107,13 +107,16 @@ Try the deployed application here:
 
 ---
 
-## 🔮 Future Improvements
+## 🔮 Future Enhancements
 
-- Streamlit Web Application
-- Real-Time MRI Upload
-- Enhanced Model Accuracy
-- Cloud Deployment
-
+- Improve model accuracy using advanced deep learning architectures.
+- Integrate Explainable AI (Grad-CAM) for tumor region visualization.
+- Implement patient report generation in PDF format.
+- Add prediction history storage using cloud databases.
+- Enable secure user authentication and access control.
+- Develop a responsive mobile-friendly interface.
+- Support multilingual accessibility.
+- Deploy a scalable cloud-based production environment.
 ---
 
 ## 👨‍💻 Author
