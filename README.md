@@ -111,7 +111,7 @@ Try the deployed application here:
 
 ### Prediction Result
 
-![Prediction Result](images/prediction_result.png)
+![Prediction Result](images/prediction_result_live.png)
 
 ---
 
