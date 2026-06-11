@@ -122,3 +122,5 @@ Try the deployed application here:
 ## 👨‍💻 Author
 
 Akash N
+
+🔗 LinkedIn: [akash-n01](https://www.linkedin.com/in/akash-n01)
